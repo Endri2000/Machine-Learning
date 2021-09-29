@@ -1,3 +1,5 @@
+# Program that takes in a labeled dataset and outputs each feature with their respective error based on a majority vote 
+
 import sys
 import pandas as pd
 import numpy as np
